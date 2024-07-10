@@ -1,0 +1,20 @@
+fieldset{
+    width: 250px;
+    background-color: rgb(39, 2, 2);
+    padding: 20px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+legend{
+    background-color: rgb(58, 10, 235);
+    color: white;
+}
+label:active{
+    text-decoration-line: line-through;
+    padding-bottom: 20px;
+}
+body{
+    align-items: center;
+    background-color: blueviolet;
+}
